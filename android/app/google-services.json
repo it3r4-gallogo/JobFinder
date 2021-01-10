@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916430726044",
+    "project_id": "job-finder-8b632",
+    "storage_bucket": "job-finder-8b632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916430726044:android:c929c532308989b7aede59",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916430726044-bj6blkpq9s8tddr1t5juj0396a21iq23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5yfTtAkbXRZuvBATQZF-L9FKVv64bx7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916430726044-bj6blkpq9s8tddr1t5juj0396a21iq23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
